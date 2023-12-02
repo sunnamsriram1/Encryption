@@ -5,6 +5,7 @@
 ![oIQBRn9eNXijhrZXZDOx7s4pDGiLYbi2fN7rIfDatStBN7bUaa](https://github.com/sunnamsriram1/Encryption/assets/59051820/83fc8049-c1f1-4197-b24b-e9d180e7a8ad)
 
 <h2>🔻___COMMAND-RUN___🔻 </h2>
+
 ```
 apt update
 apt upgrade
